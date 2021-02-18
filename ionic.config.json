@@ -1,0 +1,7 @@
+{
+  "name": "intevalleAppIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
